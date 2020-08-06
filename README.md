@@ -5,13 +5,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Mean stack
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Youtube
-- 🤔 I’m looking for help with Flutter
-- 😊 Willing to contribute in opensource projects.
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Nodejs,nestjs,mongodb,Angular,Frontend 
-- 📫 How to reach me:Twitter-@zubairsaif700
-- 😄 Pronouns: He/His
 
 <h3>Things I code with</h3>
 <p>
