@@ -1,5 +1,7 @@
 ### Hola, I'm Zubair Saif 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zubair-saif&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Mean stack
