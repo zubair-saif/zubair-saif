@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Nodejs,nestjs,mongodb,Angular,Frontend 
-- 📫 How to reach me: Twitter-@zubairsaif700
+- 📫 How to reach me:Twitter - @zubairsaif700
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 -->
