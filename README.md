@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**zubair-saif/zubair-saif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola, I'm Zubair Saif 👋
 
 Here are some ideas to get you started:
 
