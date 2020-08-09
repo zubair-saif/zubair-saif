@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-flutter-2AB2EE?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-flutter-005497?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="dart" src="https://img.shields.io/badge/-dart-2AB2EE?style=flat-square&logo=dart&logoColor=white" />
 </p>
 
