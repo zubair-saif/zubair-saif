@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-flutter-005497?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="dart" src="https://img.shields.io/badge/-dart-2AB2EE?style=flat-square&logo=dart&logoColor=white" />
+  <img alt="gitflow" src="https://img.shields.io/badge/-gitflow-35454F?style=flat-square&logo=gitflow&logoColor=white" />
 </p>
 
 
