@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-flutter-005497?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="dart" src="https://img.shields.io/badge/-dart-2AB2EE?style=flat-square&logo=dart&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-postgresql-005497?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="tailwindcss" src="https://img.shields.io/badge/-tailwindcss-2AB2EE?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
 
@@ -51,7 +53,7 @@ Here are some ideas to get you started:
 
 <h3>To connect with me, </h3>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/zubairsaif700) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@zubairsaif)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zubair-saif/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/zubairsaif700) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/zubairsaif700/) 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/zubairsaif700) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@zubairsaif)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zubair-saif/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/zubairsaif700) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/zubairsaif700/)
 
 
 ⭐ *Star and Fork this repo to try new feature!* 
