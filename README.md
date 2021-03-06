@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mean stack
+- 🔭 I’m currently working on Mean stack & Python Django
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Nodejs,Nestjs,Mongodb,Angular,Postgres,Frontend 
