@@ -7,7 +7,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mean stack & Python Django
+- 🔭 I’m currently working on Mean stack 
+- 🌱 I’m currently learning Python Django.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Nodejs,Nestjs,Mongodb,Angular,Postgres,Frontend 
@@ -59,7 +60,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h3>To connect with me, </h3>
+<h3> Connect with Me, </h3>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/zubairsaif700) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@zubairsaif)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zubair-saif/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/zubairsaif700) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/zubairsaif700/)
 
