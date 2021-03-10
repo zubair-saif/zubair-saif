@@ -36,6 +36,8 @@ Here are some ideas to get you started:
   <img alt="dart" src="https://img.shields.io/badge/-dart-2AB2EE?style=flat-square&logo=dart&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-postgresql-005497?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="tailwindcss" src="https://img.shields.io/badge/-tailwindcss-2AB2EE?style=flat-square&logo=tailwindcss&logoColor=white" />
+   <img alt="python" src="https://img.shields.io/badge/-python-3E79A2?style=flat-square&logo=python&logoColor=white" />
+   <img alt="django" src="https://img.shields.io/badge/-django-0F3C2D?style=flat-square&logo=django&logoColor=white" />
 </p>
 
 
