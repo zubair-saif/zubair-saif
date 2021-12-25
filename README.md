@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://magiccopy.xyz/assets/images/hadder.gif">
+  <img width="460" height="300" src="codin.gif">
 </p>
 
 <h1 align="center">Hi there, I'm <a href="https://zubair0x01.sh"  target="_blank">Zubair Saif!</a> 👋</h1>
