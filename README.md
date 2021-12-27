@@ -53,12 +53,18 @@ Here are some ideas to get you started:
 <h3>My Github Stats: </h3>
 
 <br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=zubair-saif&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zubair-saif&hide=css,html&theme=tokyonight">
-</p>
-
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <img alt="status" src="https://github-readme-stats.vercel.app/api?username=zubair-saif&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
+            </td>
+            <td>
+                <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zubair-saif&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="196px">
+            </td>
+        </tr>
+    </table>
+</div>
 
 <h3> Connect with Me, </h3>
 
