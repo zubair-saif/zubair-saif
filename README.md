@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mean Stack 
+- 🔭 I’m currently working on Mean & Mern Stack
 - 🌱 I’m currently learning BlockChain.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
