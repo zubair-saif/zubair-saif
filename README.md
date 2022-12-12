@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🔭 I am currently working on Mean and Mern Stack projects
 - 🌱 I am learning about BlockChain and BunJS.
 - 👯 I am open to collaborating with other content creators
-- 🥅 My goal for 2022 is to contribute more to Open Source projects
-- 💬 I am knowledgeable about Nodejs, Nestjs, Mongodb, Angular, Postgres, and frontend development, so don't hesitate to reach out if you have any questions.
+- 🥅 In the future, I plan to contribute more to Open Source projects
+- 💬 My expertise includes Nodejs, Nestjs, Mongodb, Angular, Postgres, and frontend development, so feel free to contact me if you want to discuss these topics.
 
 <h3>Things I code with</h3>
 <p>
