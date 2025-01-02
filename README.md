@@ -5,13 +5,12 @@
 <h1 align="center">Hi there, I'm <a href="https://zubair0x01.sh"  target="_blank">Zubair Saif!</a> 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubair-saif&label=Views&color=blue&style=plastic" alt="iamzubair" /> </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I am currently working on Mean and Mern Stack projects
-- 🌱 I am learning about BlockChain and BunJS.
-- 👯 I am open to collaborating with other content creators
-- 🥅 In the future, I plan to contribute more to Open Source projects
-- 💬 My expertise includes Nodejs, Nestjs, Mongodb, Angular, Postgres, and frontend development, so feel free to contact me if you want to discuss these topics.
+🚀 About Me
+- 🔭 Current Projects: Actively working on MEAN and MERN stack projects, focusing on creating scalable and efficient web applications.
+- 🌱 Learning Journey: Exploring Blockchain technology and BunJS to stay ahead in the tech landscape.
+- 👯 Collaboration Goals: Excited to collaborate with fellow creators and developers to bring innovative ideas to life.
+- 🥅 Future Goals: Aspiring to make meaningful contributions to open-source projects and the developer community.
+- 💬 Expertise Areas: Skilled in Node.js, NestJS, MongoDB, Angular, PostgreSQL, and frontend development. Let’s connect and discuss ideas or projects!
 
 <h3>Things I code with</h3>
 <p>
